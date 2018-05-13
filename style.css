@@ -1,0 +1,16 @@
+#content {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0px;
+        background: url("images/JKLT_welcome.png") no-repeat;
+        background-size: contain;
+    }
+
+    #countdown {
+        width: 100%;
+        margin: 0;
+        padding: 24% 0 0 0;
+        text-align: center;
+        font-size: 52px;
+    }
